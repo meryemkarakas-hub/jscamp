@@ -1,4 +1,4 @@
-console.log("Merhaba Kodlama.io")
+console.log("Merhaba Meryem")
 
 //JS type safe değildir
 let dolarBugun = 9.30
@@ -25,6 +25,7 @@ console.log("<ul>")
 for(let i = 0;i<konutKredileri.length;i++){
     console.log("<li>"+konutKredileri[i]+"</li>")
 }
+
 console.log("</ul>")
 
 {/* <ul>
@@ -33,4 +34,4 @@ console.log("</ul>")
     <li>Kamu Konut Kredisi</li>
 </ul> */}
 
-console.log(konutKredileri)
+console.log(konutKredileri) 
